@@ -1,7 +1,7 @@
 {
   "News": [
     {
-      "img": "../imgs/PizzaImg.svg",
+      "img": "img/PizzaImg.svg",
       "h2": "Карбонара",
       "h4": "от 120 ₽",
       "id": 1
