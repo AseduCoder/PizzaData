@@ -7,7 +7,7 @@
       "id": 1
     },
     {
-      "img": "img/PizzaImg.svg",
+      "img": "../imgs/PizzaImg.svg",
       "h2": "Карбонара",
       "h4": "от 120 ₽",
       "id": 2
